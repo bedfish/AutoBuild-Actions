@@ -4,7 +4,7 @@
 # AutoUpdate
 
 Version=V4.0
-DEFAULT_DEVICE=d-team_newifi3-d2
+DEFAULT_DEVICE=d-team_newifi-d2
 Github=https://github.com/bedfish/AutoBuild-Actions
 
 TIME() {
